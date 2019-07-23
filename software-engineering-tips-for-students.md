@@ -6,13 +6,13 @@
 
 ```c++
 //
-// File Geeks.h
+// File Geek.h
 //
 
 #include <bits/stdc++.h> 
 using namespace std; 
 
-class Geeks 
+class Geek 
 { 
   public: 
 	string geekname; 
@@ -27,10 +27,10 @@ class Geeks
 // File main.cpp
 //
 
-#include <Geeks.h> 
+#include <Geek.h> 
 
 int main() { 
-	Geeks obj1; 
+	Geek obj1; 
 
 	obj1.geekname = "Neo"; 
 
@@ -41,9 +41,56 @@ int main() {
 ```
 
 ### Python
+```python
+
+# File geek.py
+
+class Geek():
+    
+  def __init__(self,name: str=None):
+    self.geekname = name
+
+  def printname(self):
+    print("Geekname is: {}".format(self.geekname))
+      
+
+if __name__ == "__main__":
+  Geek('Neo').printname()
+  
+```
+
 ### PHP
-### Java
-### Golang
+```php
+
+ // File Geek.php
+
+namespace EngineeringTips;
+
+class Geek 
+{
+  /** @var string */
+  private $name;
+  
+  public function __construct(string $name) 
+  {
+    $this->name = $name;
+  }
+  
+  public function printname(): void 
+  {
+    echo $this->name;
+  }
+}
+    
+// File main.php
+  
+include 'Geek.php';
+
+$geek = new Geek('Neo');
+
+$geek->printname();
+  
+```
 
 # Advanced topics
 ## Code quality
