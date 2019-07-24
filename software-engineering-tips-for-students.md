@@ -120,7 +120,7 @@ Follow some people
 * [Robert C. Martin](https://twitter.com/unclebobmartin)
 * [Martin Fowler](https://twitter.com/martinfowler)
 
-# Carreer
+# Career
 ## Tech stack on the real world
 Stack overflow makes surveys among their users.
 * [2019 survey](https://insights.stackoverflow.com/survey/2019)
