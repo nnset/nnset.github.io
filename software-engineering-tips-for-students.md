@@ -86,7 +86,7 @@ class Geek
   
 include 'Geek.php';
 
-$geek = new Geek('Neo');
+$geek = new EngineeringTips\Geek('Neo');
 
 $geek->printname();
   
