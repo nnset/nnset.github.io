@@ -138,6 +138,7 @@ Read about the [SOLID orinciple](https://en.wikipedia.org/wiki/SOLID).
 
 ## Testing
 📖[Test Driven Development: By Example](https://www.amazon.com/gp/product/0321146530/ref=x_gr_w_bb_sout)
+
 📖[Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com/gp/product/0321503627/ref=x_gr_w_bb_sout)
     
 ## Continuous integration
@@ -149,10 +150,14 @@ Read about the [SOLID orinciple](https://en.wikipedia.org/wiki/SOLID).
 # Future reads
 ## Software development
 📖[The Pragmatic Programmer: From Journeyman to Master (English Edition)](https://www.amazon.es/Pragmatic-Programmer-Journeyman-Master-ebook/dp/B003GCTQAE)
+
 📖[The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/gp/product/0137081073/ref=x_gr_w_bb_sout)
+
 📖[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/0132350882/ref=x_gr_w_bb_sout)
 
 ## Project management
 📖[Rework](https://basecamp.com/books/rework)
+
 📖[The Mythical Man-Month, Anniversary Edition: Essays On Software Engineering](https://www.amazon.com/Mythical-Man-Month-Anniversary-Software-Engineering-ebook/dp/B00B8USS14/ref=pd_sim_351_7)
+
 📖[The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
